@@ -4,15 +4,15 @@
      estudos em aprender mais sobre UX e UI Design, pois acredito que uma boa experiência do usuário
      deve ser primordial em um projeto.
      
-- 👀 Alguns dos meus interesses fora o mundo da programação são: Tecnologia em geral, música, séries, 
-     filmes, comédia, live streams, fotografia, culinária, motociclismo e entre outros...     
+- 👀 Alguns dos meus interesses fora o mundo da programação são: Tecnologia em geral, xadrez, música, 
+     séries, filmes, comédia, live streams, fotografia, culinária, motociclismo e entre outros...     
      
 - 🌱 Atualmente estou estudando desenvolvimento front-end; HTML5; CSS3; Bootstrap e JavaScript.
      Estudei também Lógica da Programação e Python 3, que aliás, é a linguagem de programação que 
      pretendo me especializar como desenvolvedor.
      
 - 💞️ Assim que adquirir os conhecimentos necessários para ser um programador, vou colaborar nos mais
-     diversos projetos. Até lá, vou focar em aprender o máximo possível das mais diversas tecnologias.
+     diversos projetos. Até lá, vou focar em aprender o máximo possível das mais diversas linguagens e frameworks.
      
 - 📫 Você pode me contatar pelos seguintes meios:
 
