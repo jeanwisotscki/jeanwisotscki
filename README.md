@@ -35,5 +35,3 @@
 </div>
 
 <br><br>
-
-![Jean Wisotscki GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanwisotscki&show_icons=true&theme=dracula)
